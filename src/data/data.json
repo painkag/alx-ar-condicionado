@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "Bem-vindo à Pré moldados",
-    "paragraph": "Especialistas em pré-moldados para construção de casas em São Paulo. Nossa equipe altamente qualificada garante a instalação e manutenção de estruturas pré-moldadas com a máxima segurança e qualidade. Com atendimento rápido e eficiente, estamos aqui para tornar sua construção mais ágil e confiável, oferecendo soluções práticas e duráveis."
+    "title": "Bem-vindo à EPS",
+    "paragraph": "Especialistas em EPS para construção de casas em São Paulo. Nossa equipe altamente qualificada garante a instalação e manutenção de estruturas pré-moldadas com a máxima segurança e qualidade. Com atendimento rápido e eficiente, estamos aqui para tornar sua construção mais ágil e confiável, oferecendo soluções práticas e duráveis."
   },
   "About": {
-    "paragraph": "Na nossa empresa, oferecemos soluções em pré-moldados para construção de casas com excelência e dedicação. Com uma equipe especializada e equipamentos de última geração, garantimos a qualidade e segurança das estruturas. Estamos comprometidos em proporcionar um atendimento confiável e transparente, sempre buscando a sua satisfação com um processo de construção rápido e seguro.",
+    "paragraph": "Na nossa empresa, oferecemos soluções em EPS para construção de casas com excelência e dedicação. Com uma equipe especializada e equipamentos de última geração, garantimos a qualidade e segurança das estruturas. Estamos comprometidos em proporcionar um atendimento confiável e transparente, sempre buscando a sua satisfação com um processo de construção rápido e seguro.",
     "Why": [
       "Experiência",
       "Equipe Especializada",
@@ -38,33 +38,33 @@
  "Services": [
   {
     "icon": "fa fa-home",
-    "name": "Instalação de Pré-Moldados",
-    "text": "Instalamos e trocamos pré-moldados para segurança e eficiência na construção."
+    "name": "Instalação de EPS",
+    "text": "Instalamos e trocamos EPS para segurança e eficiência na construção."
   },
   {
     "icon": "fa fa-home",
-    "name": "Reparo de Pré-Moldados",
-    "text": "Reparamos pré-moldados para melhor desempenho e durabilidade."
+    "name": "Reparo de EPS",
+    "text": "Reparamos EPS para melhor desempenho e durabilidade."
   },
   {
     "icon": "fa fa-home",
-    "name": "Serviço de Ajuste e Acabamento de Pré-Moldados",
-    "text": "Executamos ajustes e acabamentos nos pré-moldados para garantir uma instalação perfeita e prolongar a durabilidade das estruturas."
+    "name": "Serviço de Ajuste e Acabamento de EPS",
+    "text": "Executamos ajustes e acabamentos nos EPS para garantir uma instalação perfeita e prolongar a durabilidade das estruturas."
   },
   {
     "icon": "fa fa-home",
     "name": "Substituição de Componentes",
-    "text": "Substituímos componentes danificados por novos pré-moldados."
+    "text": "Substituímos componentes danificados por novos EPS."
   },
   {
     "icon": "fa fa-home",
     "name": "Manutenção de Estruturas",
-    "text": "Ajustamos as estruturas de pré-moldados para garantir segurança e estabilidade."
+    "text": "Ajustamos as estruturas de EPS para garantir segurança e estabilidade."
   },
   {
     "icon": "fa fa-home",
     "name": "Reparo de Conexões",
-    "text": "Recondicionamos conexões de pré-moldados para maior segurança."
+    "text": "Recondicionamos conexões de EPS para maior segurança."
 }
 
   ],
@@ -112,12 +112,12 @@
     {
       "icon": "fa fa-group",
       "title": "Soluções em Equipe",
-      "text": "Nossa equipe trabalha unida para garantir que seus pré-moldados de construção de casas recebam o melhor serviço possível."
+      "text": "Nossa equipe trabalha unida para garantir que seus EPS de construção de casas recebam o melhor serviço possível."
     },
     {
       "icon": "fa fa-magic",
       "title": "Resultados Rápidos e Eficientes",
-      "text": "Aplicamos soluções rápidas e eficazes para que seus pré-moldados de construção de casas funcionem como novos em pouco tempo."
+      "text": "Aplicamos soluções rápidas e eficazes para que seus EPS de construção de casas funcionem como novos em pouco tempo."
     }
   ]
 }
