@@ -175,7 +175,6 @@ export const Contact = (props) => {
           <a
             href="https://br.freepik.com/fotos-gratis/mao-de-mecanico-verificando-e-consertando-um-carro-quebrado-na-garagem-de-servico_10521910.htm#query=banner%20mecanica&position=1&from_view=keyword&track=ais_hybrid&uuid=685afeea-787b-43c0-bfe9-80fedb3d6849"
           >
-            Imagem de standret no Freepik
           </a>
         </div>
       </div>
