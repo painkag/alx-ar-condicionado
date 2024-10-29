@@ -7,7 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Nossos serviços</h2>
           <p>
-          Realizamos a remoção e instalação de motores, além de muitos outros serviços especializados para garantir o desempenho e a longevidade do seu veículo.
+          Realizamos a remoção e instalação de painéis de EPS, além de muitos outros serviços especializados para garantir a eficiência e durabilidade das suas estruturas de construção.
           </p>
         </div>
         <div className="row">
