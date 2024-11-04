@@ -5,7 +5,7 @@ export const Header = (props) => {
   // Lista de URLs das imagens de fundo
   const images = [
     "../img/casa.jpg",
-    "../img/casa1.webp",
+    "../img/casa1.jpg",
     "../img/casa2.jpg",
   ];
 
@@ -36,8 +36,8 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
                   onClick={() => HandleWhatsClick({
-                    phoneNumber: '+5511977154129',
-                    message: 'Olá, gostaria de mais informações.'
+                    phoneNumber: '+5514997686244',
+                    message: 'Olá, Vim pelo site e gostaria de mais informações.'
                   })}
                   href="#features"
                   className="btn btn-custom btn-lg page-scroll"

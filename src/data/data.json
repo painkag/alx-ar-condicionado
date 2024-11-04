@@ -1,122 +1,136 @@
 {
   "Header": {
-    "title": "Bem-vindo à Construção com EPS",
-    "paragraph": "Especialistas em EPS para construção de estruturas em São Paulo. Nossa equipe qualificada oferece instalação e manutenção com alta segurança e qualidade. Atendimento rápido e eficiente para tornar sua obra mais ágil e confiável."
+    "title": "Soluções Completas em Construção",
+    "paragraph": "Especialistas em fundação, paredes de EPS, reboco, hidráulica e elétrica. Nossa equipe qualificada oferece serviços de alta qualidade para tornar sua obra mais ágil, segura e eficiente."
   },
   "About": {
-    "paragraph": "Oferecemos soluções em EPS para construções com excelência. Nossa equipe é especializada e garante a qualidade e segurança das estruturas. Proporcionamos um atendimento transparente, priorizando sua satisfação e um processo rápido e seguro.",
+    "paragraph": "Oferecemos soluções completas para construção civil, da fundação ao acabamento. Com experiência em paredes de EPS, laje concretada e instalações hidráulicas e elétricas, garantimos qualidade e segurança em cada projeto.",
     "Why": [
-      "Experiência",
+      "Experiência e Qualidade",
       "Equipe Especializada",
-      "Transparência",
-      "Compromisso com a Qualidade"
+      "Transparência no Processo",
+      "Compromisso com a Satisfação"
     ],
     "Why2": [
-      "Tecnologia Avançada",
-      "Serviço Rápido",
-      "Preços Justos",
-      "Atendimento Amigável"
+      "Tecnologia Inovadora",
+      "Agilidade no Serviço",
+      "Preços Competitivos",
+      "Atendimento Próximo e Confiável"
     ]
   },
   "Gallery": [
     {
-      "title": "Soluções em Estruturas Pré-Moldadas",
+      "title": "Instalação de Paredes de EPS",
       "largeImage": "img/casa5.jpg",
       "smallImage": "img/casa5.jpg"
     },
     {
-      "title": "Estruturas de EPS de Alta Qualidade",
-      "largeImage": "img/casa9.jpg",
-      "smallImage": "img/casa9.jpg"
+      "title": "Fundação e Estrutura de Qualidade",
+      "largeImage": "img/casa4.jpg",
+      "smallImage": "img/casa4.jpg"
     },
     {
-      "title": "Montagem de Estruturas Rápida e Eficiente",
-      "largeImage": "img/casa7.jpg",
-      "smallImage": "img/casa7.jpg"
+      "title": "Reboco e Acabamento Interno",
+      "largeImage": "img/casa1.jpg",
+      "smallImage": "img/casa1.jpg"
+    },
+    {
+      "title": "Sistema Hidráulico e Elétrico",
+      "largeImage": "img/casa6.jpg",
+      "smallImage": "img/casa6.jpg"
+    },
+    {
+      "title": "Montagem de Estruturas Eficiente",
+      "largeImage": "img/casa.jpg",
+      "smallImage": "img/casa.jpg"
+    },
+    {
+      "title": "Laje Concretada para Durabilidade",
+      "largeImage": "img/casa1.jpg",
+      "smallImage": "img/casa2.jpg"
     }
   ],
   "Services": [
     {
       "icon": "fa fa-home",
-      "name": "Instalação de EPS",
-      "text": "Instalamos EPS com segurança e eficiência para sua obra."
+      "name": "Fundação",
+      "text": ""
     },
     {
       "icon": "fa fa-home",
-      "name": "Reparo de EPS",
-      "text": "Reparamos EPS para melhorar durabilidade e desempenho."
+      "name": "Instalação de Paredes de EPS"
     },
     {
       "icon": "fa fa-home",
-      "name": "Ajuste e Acabamento",
-      "text": "Realizamos acabamentos nos EPS para instalação perfeita."
+      "name": "Reboco e Acabamento",
+      "text": "Reboco interno e externo para proteção e estética."
     },
     {
       "icon": "fa fa-home",
-      "name": "Substituição de Componentes",
-      "text": "Substituímos EPS danificados por novos componentes."
+      "name": "Instalação Elétrica e Hidráulica",
+      "text": "Execução de tubulação elétrica e hidráulica com segurança."
     },
     {
       "icon": "fa fa-home",
-      "name": "Manutenção de Estruturas",
-      "text": "Ajustamos EPS para garantir segurança e estabilidade."
+      "name": "Sistema de Esgoto",
+      "text": "Instalação de tubulação de esgoto conforme normas técnicas."
     },
     {
       "icon": "fa fa-home",
-      "name": "Reparo de Conexões",
-      "text": "Reparamos conexões de EPS para maior segurança."
+      "name": "Laje Concretada",
+      "text": "Concretagem de laje para estrutura resistente e duradoura."
     }
   ],
   "Team": [
     {
       "img": "img/team/person.webp",
-      "name": "John Doe",
-      "job": "Diretor"
+      "name": "João Silva",
+      "job": "Diretor de Projetos"
     },
     {
       "img": "img/team/person.webp",
-      "name": "Mike Doe",
-      "job": "Designer Sênior"
+      "name": "Carlos Mendes",
+      "job": "Engenheiro Civil"
     },
     {
       "img": "img/team/person.webp",
-      "name": "Jane Doe",
-      "job": "Designer Sênior"
+      "name": "Ana Oliveira",
+      "job": "Especialista em EPS"
     },
     {
       "img": "img/team/person.webp",
-      "name": "Karen Doe",
-      "job": "Gerente de Projetos"
+      "name": "Fernanda Rocha",
+      "job": "Coordenadora de Obras"
     }
   ],
   "Contact": {
-    "address": "Av. - SP",
-    "phone": "11 9999-9999",
-    "email": "info@company.com",
-    "facebook": "@.COM",
-    "twitter": "@.COM",
-    "youtube": "@.COM"
+    "address": "Rua Exemplo, São Paulo, SP",
+    "phone": "(14)99768-6244",
+    "email": "contato@construcaoeps.com",
+    "facebook": "@ConstrucaoEPS",
+    "twitter": "@ConstrucaoEPS",
+    "youtube": "@ConstrucaoEPS"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
       "title": "Atendimento Personalizado",
-      "text": "Consultoria para cada cliente, explicando o que sua obra precisa."
+      "text": "Consultoria completa para avaliar as necessidades da sua obra."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Comunicação Clara",
-      "text": "Informações diretas e sem complicações sobre os serviços."
+      "title": "Comunicação Transparente",
+      "text": "Informações claras e atualizadas sobre o progresso dos serviços."
     },
     {
       "icon": "fa fa-group",
-      "title": "Trabalho em Equipe",
-      "text": "Equipe unida para oferecer o melhor serviço em EPS."
+      "title": "Equipe Especializada",
+      "text": "Profissionais qualificados para cada etapa da construção."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Resultados Eficientes",
-      "text": "Soluções rápidas para que o EPS funcione como novo."
+      "title": "Execução Rápida e Eficiente",
+      "text": "Trabalho com agilidade para entregar sua obra no prazo."
     }
   ]
 }
