@@ -21,13 +21,13 @@
   "Gallery": [
     {
       "title": "Instalação de Paredes de EPS",
-      "largeImage": "img/casa5.jpg",
-      "smallImage": "img/casa5.jpg"
+      "largeImage": "img/casa10.jpg",
+      "smallImage": "img/casa10.jpg"
     },
     {
       "title": "Fundação e Estrutura de Qualidade",
-      "largeImage": "img/casa4.jpg",
-      "smallImage": "img/casa4.jpg"
+      "largeImage": "img/casa7.jpg",
+      "smallImage": "img/casa7.jpg"
     },
     {
       "title": "Reboco e Acabamento Interno",
@@ -36,18 +36,18 @@
     },
     {
       "title": "Sistema Hidráulico e Elétrico",
-      "largeImage": "img/casa6.jpg",
-      "smallImage": "img/casa6.jpg"
+      "largeImage": "img/casa8.jpg",
+      "smallImage": "img/casa8.jpg"
     },
     {
       "title": "Montagem de Estruturas Eficiente",
-      "largeImage": "img/casa.jpg",
-      "smallImage": "img/casa.jpg"
+      "largeImage": "img/casa9.jpg",
+      "smallImage": "img/casa9.jpg"
     },
     {
       "title": "Laje Concretada para Durabilidade",
-      "largeImage": "img/casa1.jpg",
-      "smallImage": "img/casa2.jpg"
+      "largeImage": "img/casa.jpg",
+      "smallImage": "img/casa.jpg"
     }
   ],
   "Services": [
@@ -62,7 +62,7 @@
     },
     {
       "icon": "fa fa-home",
-      "name": "Reboco e Acabamento",
+      "name": "Reboco estrutural",
       "text": "Reboco interno e externo para proteção e estética."
     },
     {

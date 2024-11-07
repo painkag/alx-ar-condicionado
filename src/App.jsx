@@ -11,6 +11,7 @@ import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
+import { FloatingWhatsAppButton } from "./components/whatsAppFloating/whatsAppFloat";
 
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
@@ -26,6 +27,7 @@ const App = () => {
 
   return (
     <div>
+      <FloatingWhatsAppButton/>
       <Navigation />
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
