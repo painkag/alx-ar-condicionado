@@ -5,7 +5,7 @@ import React from 'react';
 export const FloatingWhatsAppButton = () => {
   const handleClick = () => {
     // Substitua pelo número de telefone desejado e mensagem padrão
-    const phoneNumber = '5514997686244';
+    const phoneNumber = '5511987782295';
     const message = encodeURIComponent('Olá! Vim pelo site e gostaria de mais informações.');
     
     window.open(`https://wa.me/${phoneNumber}?text=${message}`, '_blank');
