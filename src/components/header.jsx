@@ -4,9 +4,9 @@ import { HandleWhatsClick } from "../utils/whatssap";
 export const Header = (props) => {
   // Lista de URLs das imagens de fundo
   const images = [
-    "../img/casa.jpg",
-    "../img/casa1.jpg",
-    "../img/casa2.jpg",
+    "../img/img.jpg",
+    "../img/img2.jpg",
+    "../img/img3.jpg",
   ];
 
   // Estado para controlar o índice da imagem atual
@@ -36,7 +36,7 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
                   onClick={() => HandleWhatsClick({
-                    phoneNumber: '+5511987782295',
+                    phoneNumber: '+5511977154129',
                     message: 'Olá, Vim pelo site e gostaria de mais informações.'
                   })}
                   href="#features"

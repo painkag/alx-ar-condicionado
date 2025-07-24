@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "Soluções Completas em Construção",
-    "paragraph": "Especialistas em fundação, paredes de EPS, reboco, hidráulica e elétrica. Nossa equipe qualificada oferece serviços de alta qualidade para tornar sua obra mais ágil, segura e eficiente."
+    "title": "Climatização Residencial e Comercial",
+    "paragraph": "Especialistas em instalação, manutenção e higienização de ar-condicionado split, inverter e multi split. Atendemos residências, comércios e empresas com agilidade, segurança e qualidade garantida."
   },
   "About": {
-    "paragraph": "Oferecemos soluções completas para construção civil, da fundação ao acabamento. Com experiência em paredes de EPS, laje concretada e instalações hidráulicas e elétricas, garantimos qualidade e segurança em cada projeto.",
+    "paragraph": "Oferecemos soluções completas em climatização, da instalação à manutenção. Com experiência em sistemas split, inverter e multi split, garantimos eficiência, conforto e segurança em cada ambiente.",
     "Why": [
       "Experiência e Qualidade",
       "Equipe Especializada",
@@ -19,68 +19,72 @@
     ]
   },
   "Gallery": [
-    {
-      "title": "Fabricação de Paredes de EPS",
-      "largeImage": "img/casa10.jpg",
-      "smallImage": "img/casa10.jpg"
-    },
-    {
-      "title": "Fundação e Estrutura de Qualidade",
-      "largeImage": "img/casa7.jpg",
-      "smallImage": "img/casa7.jpg"
-    },
-    {
-      "title": "Reboco e Acabamento Interno",
-      "largeImage": "img/casa1.jpg",
-      "smallImage": "img/casa1.jpg"
-    },
-    {
-      "title": "Sistema Hidráulico e Elétrico",
-      "largeImage": "img/casa8.jpg",
-      "smallImage": "img/casa8.jpg"
-    },
-    {
-      "title": "Montagem de Estruturas Eficiente",
-      "largeImage": "img/casa9.jpg",
-      "smallImage": "img/casa9.jpg"
-    },
-    {
-      "title": "Laje Concretada para Durabilidade",
-      "largeImage": "img/casa.jpg",
-      "smallImage": "img/casa.jpg"
-    }
-  ],
+  {
+    "title": "Instalação de Ar-Condicionado Split",
+    "largeImage": "img/man.jpg",
+    "smallImage": "img/man.jpg"
+  },
+  {
+    "title": "Manutenção Preventiva e Corretiva",
+    "largeImage": "img/casa2.jpg",
+    "smallImage": "img/casa2.jpg"
+  },
+  {
+    "title": "Higienização de Equipamentos",
+    "largeImage": "img/casa1.jpg",
+    "smallImage": "img/casa1.jpg"
+  },
+  {
+    "title": "Serviços Elétricos para Climatização",
+    "largeImage": "img/img3.jpg",
+    "smallImage": "img/img3.jpg"
+  },
+  {
+    "title": "Instalação de Drenagem e Infraestrutura",
+    "largeImage": "img/casa3.jpg",
+    "smallImage": "img/casa3.jpg"
+  },
+  {
+    "title": "Climatização Residencial e Comercial",
+    "largeImage": "img/man2.jpg",
+    "smallImage": "img/man2.jpg"
+  }
+]
+,
   "Services": [
-    {
-      "icon": "fa fa-home",
-      "name": "Fundação",
-      "text": ""
-    },
-    {
-      "icon": "fa fa-home",
-      "name": "Instalação de Paredes de EPS"
-    },
-    {
-      "icon": "fa fa-home",
-      "name": "Reboco estrutural",
-      "text": "Reboco interno e externo para proteção e estética."
-    },
-    {
-      "icon": "fa fa-home",
-      "name": "Instalação Elétrica e Hidráulica",
-      "text": "Execução de tubulação elétrica e hidráulica com segurança."
-    },
-    {
-      "icon": "fa fa-home",
-      "name": "Sistema de Esgoto",
-      "text": "Instalação de tubulação de esgoto conforme normas técnicas."
-    },
-    {
-      "icon": "fa fa-home",
-      "name": "Laje Concretada",
-      "text": "Concretagem de laje para estrutura resistente e duradoura."
-    }
-  ],
+  {
+    "icon": "fa fa-home",
+    "name": "Instalação de Ar-Condicionado",
+    "text": "Instalação profissional de sistemas Split, Inverter e Multi Split."
+  },
+  {
+    "icon": "fa fa-home",
+    "name": "Manutenção Preventiva",
+    "text": "Evite falhas e aumente a vida útil do equipamento com revisões periódicas."
+  },
+  {
+    "icon": "fa fa-home",
+    "name": "Limpeza e Higienização",
+    "text": "Remoção de fungos, bactérias e impurezas para um ar mais puro e saudável."
+  },
+  {
+    "icon": "fa fa-home",
+    "name": "Instalação Elétrica para Climatização",
+    "text": "Adequação elétrica segura para suportar sistemas de ar-condicionado."
+  },
+  {
+    "icon": "fa fa-home",
+    "name": "Infraestrutura para Instalação",
+    "text": "Tubulações, drenos e suportes prontos para climatização eficiente."
+  },
+  {
+    "icon": "fa fa-home",
+    "name": "Atendimento Residencial e Comercial",
+    "text": "Soluções completas para casas, comércios e empresas."
+  }
+]
+
+,
   "Team": [
     {
       "img": "img/team/person.webp",
@@ -105,11 +109,11 @@
   ],
   "Contact": {
     "address": "Em breve - SP",
-    "phone": "(11)98778-2295",
+    "phone": "(11)97715-4129",
     "email": "Em breve - SP",
-    "facebook": "@ConstrucaoEPS",
-    "twitter": "@ConstrucaoEPS",
-    "youtube": "@ConstrucaoEPS"
+    "facebook": "@alx-Arcondicionado",
+    "twitter": "@alx-Arcondicionado",
+    "youtube": "@alx-Arcondicionado"
   },
   "Features": [
     {
