@@ -79,7 +79,7 @@ export const Contact = (props) => {
                         id="email"
                         name="email"
                         className="form-control"
-                        placeholder="Email"
+                        placeholder="Telefone - WhatsApp"
                         required
                         onChange={handleChange}
                         value={email} // Adiciona o valor ao input
